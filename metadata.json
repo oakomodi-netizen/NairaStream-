@@ -1,0 +1,6 @@
+{
+  "name": "NairaStream",
+  "description": "Premium Fintech Web App for Daily Web Ad Streaming, Dual-Wallet Rewards, and Automated Friday Bank Disbursements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
